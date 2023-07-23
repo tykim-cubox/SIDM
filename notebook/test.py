@@ -162,3 +162,4 @@ print(sample.shape)
 print(len(res_samples))
 print(res_samples[0].shape, res_samples[1].shape)
 down_block_res_samples += res_samples
+
